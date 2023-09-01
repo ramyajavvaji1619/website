@@ -1,0 +1,23 @@
+#pic{
+    margin-top: 30px;
+    border-radius: 300px;
+}
+#button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+#demo{
+    font-size: 40px;
+    margin-top: 20px;
+}
+.counter-value{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 80px;
+}
+.heading{
+    font-weight: bold;
+    font-size: 60px;
+    
+}

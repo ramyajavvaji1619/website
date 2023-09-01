@@ -1,0 +1,13 @@
+.timer{
+    font-size: 50px;
+    font-weight:400;
+    font-style: inherit;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.counter-value{
+    font-size: 35px;
+    font-weight: bold;
+}

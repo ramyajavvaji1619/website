@@ -1,0 +1,17 @@
+.form-heading{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    height: 100px;
+    color:black;
+    padding-top: 20px;
+    
+}
+.error-message{
+    color: red;
+    font-size: 15px;
+}
+.btn{
+    text-align: center;
+    margin-left: 170px;
+}

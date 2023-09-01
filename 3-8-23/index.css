@@ -1,0 +1,77 @@
+#pic{
+    margin-top: 30px;
+    border-radius: 300px;
+}
+#button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+#demo{
+    font-size: 40px;
+    margin-top: 20px;
+}
+.counter-value{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 80px;
+}
+.heading{
+    font-weight: bold;
+    font-size: 60px;
+    
+}
+#demo1{
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.dark-background {
+    background-color: #0b0b0b;
+    }
+    .bulb-image {
+    width: 350px;
+    margin-bottom: 30px;
+    }
+    .cat-image {
+    width: 200px;
+    }
+    .switch-board {
+    background-color: #7b8794;
+    width: 294px;
+    height: 139px;
+    border-radius: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: 16px;
+    }
+    .switch-status {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 24px;
+    }
+    .on-switch {
+    color: #ffffff;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    width: 99px;
+    height: 44px;
+    border-radius: 8px;
+    margin-left: 16px;
+    }
+    .off-switch {
+    color: #ffffff;
+    background-color: #e12d39;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    width: 99px;
+    height: 44px;
+    border-radius: 8px
+    }

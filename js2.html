@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>Javascript2</title>
+    <link rel="stylesheet" href="js2.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body>
+    <div class="container bg-container">
+      <div class="row bg-white">
+        <div class="col-12 col-md-6 m-auto bg-white pt-5 pb-5">
+          <img class="img1" src="guess.jpg" />
+          <p class="text-center headline">
+            Find out the right number between 1 to 100
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 guess-bg-container text-center">
+          <h1 class="heading">
+            Guess The Number
+            <img class="img2" src="download.jpg" />
+          </h1>
+          <input type="text" class="user-input" id="userInput" />
+          <div>
+            <button class="btn btn-info check-guess" onclick="checkGuess()">
+              Check
+            </button>
+          </div>
+          <p class="game-result" id="gameResult"></p>
+        </div>
+      </div>
+    </div>
+
+    <div id="myContainer"></div>
+    <div id="name"></div>
+    <script src="js3.js"></script>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+
+<html>
+    <head>
+        <title>go rest</title>
+        <link rel="stylesheet" href="go rest.css">
+        link rel="stylesheet" href="get.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+    </head>
+    <body>
+        <div class="bg-container">
+         <div class="container pt-5 pb-5">
+            <div class="row pt-4 pb-4 d-flex flex-row justify-content-center">
+                <h1 class="col-12 text-center heading">GO REST CONSOLE</h1>
+                <form class="col-11" id="consoleForm">
+                    <div class="mb-2">
+                        <label for="requestUrl">REQUESTURL:</label>
+                        <input type="text" id="requestUrl" class="formcontrol" value="https://gorest.co.in/public/v2/users">
+                        <p id="requestUrlErrMsg" class="errormsg"></p>
+                    </div>
+                    <div class="mb-2">
+                        <label for="requestMethod">Request Method</label>
+                        <select id="requestMethod" class="formcontrol mb-2">
+                        <option value="PUT">PUT</option>
+                        <option value="POST">POST</option>
+                        </select> 
+                    </div>
+                    <div class="mb-2">
+                        <label for="requestBody">Request body</label>
+                        <textarea id="requestBody" class="formcontrol w-100" rows="5"></textarea>
+
+                    </div>
+                    <div class="text-right">
+                        <button type="submit"></button>
+                    </div>
+                </form>
+            </div>
+         </div>   
+        </div>
+        <script src="go rest.js"></script>
+    </body>
+</html>

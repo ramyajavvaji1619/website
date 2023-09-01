@@ -1,0 +1,32 @@
+.bg-container {
+    background-image: url("https://st3.depositphotos.com/18803028/35052/i/450/depositphotos_350524646-stock-photo-math-illustration-abstract-background-numbers.jpg");
+    height: 60vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 80px 150px;
+    
+    
+}
+.par1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.user-input{
+    padding: 8px;
+    margin-left: 70px;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.text-fact{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+
+}

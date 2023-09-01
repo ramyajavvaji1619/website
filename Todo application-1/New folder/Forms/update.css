@@ -1,0 +1,24 @@
+.form-heading{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    
+    height: 100px;
+    color: white;
+    background-position: center;
+    padding-top: 20px;
+    
+}
+.error-message{
+    color: red;
+    font-size: 15px;
+}
+.btn{
+    text-align: center;
+    margin-left: 170px;
+}
+.card{
+    margin: 50px;
+    background-image: linear-gradient(to bottom, rgb(238, 97, 139),rgb(96, 165, 221));
+}
+ 

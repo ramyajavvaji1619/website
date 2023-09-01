@@ -1,0 +1,62 @@
+.bg-container{
+    
+    background-image: linear-gradient(to left, rgb(0, 255, 255), rgb(0, 119, 255));
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.heading{
+    color: white;
+    font-family: 'Gill Sans';
+    font-weight: 900;
+}
+.request-url{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+  
+}
+.url{
+    color: white;
+
+}
+.user-input{
+    color:black;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.request-body{
+    background-color: #ffffff;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+}
+.button{
+    color: #ffffff;
+    font-size: 14px;
+    border-radius: 4px;
+    border-width: 0;
+    background-color: blue;
+    padding: 8px;
+}
+.request-status-container{
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.request-status{
+    color: #4055a8;
+    font-size: 32px;
+    font-family: "Roboto";
+}
+.response-body-container{
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.http-response{
+    color: #4055a8;
+    font-size: 14px;
+    font-family: "Roboto";
+}

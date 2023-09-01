@@ -1,0 +1,50 @@
+.bg-container{
+    background: linear-gradient( #189ffd, #29f39c);
+    height: 50vh;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.peace-page-container{
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 50px;
+
+}
+
+.peace-page-heading{
+    color: #323f4b;
+    font-family: 'Gill Sans';
+    font-size: 35px;
+
+}
+
+.peace-page-discription{
+    color: #616e7c;
+    font-family: 'Gill Sans';
+    font-size: 20px;
+
+}
+
+.heading{
+    color: #323f4b;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+}
+
+.button-list-container{
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+.button{
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+    background-color: #05a8f2;
+    color: white;
+    border-width: 0;
+    border-radius: 10px;
+    width: 70px;
+    height: 75px;
+    margin: 5px;
+}

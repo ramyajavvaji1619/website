@@ -1,0 +1,44 @@
+.bg-container{
+    
+    background-image: linear-gradient(to left, rgb(0, 255, 255), rgb(0, 119, 255));
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.heading{
+    color: white;
+    font-family: 'Gill Sans';
+    font-weight: 900;
+}
+.request-url{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+  
+}
+.url{
+    color: white;
+
+}
+.button{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.request-status{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+.http-response{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+   

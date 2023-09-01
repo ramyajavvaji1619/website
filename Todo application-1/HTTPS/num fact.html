@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>num fact</title>
+    <link rel="stylesheet" href="num fact.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body>
+    <div class="bg-container w-25">
+      <div class="pt-5">
+        <h1 class="par1">
+          Enter a Number to know intresting facts about the number
+        </h1>
+
+        <input
+          type="search"
+          placeholder="Enter a number"
+          id="userInput"
+          class="user-input"
+        />
+
+        <div class="d-none" id="spinner">
+          <div class="d-flex flex-row justify-content-center text-center">
+            <div class="spinner-border" role="status"></div>
+          </div>
+        </div>
+
+        <p class="text-fact mt-3" id="fact">
+          O is the atomic number of the theoretical element tetraneutron.
+        </p>
+      </div>
+    </div>
+    <script src="num fact.js"></script>
+  </body>
+</html>

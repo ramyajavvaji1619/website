@@ -1,0 +1,33 @@
+.greeting-card-container {
+      background-image:url(https://render.fineartamerica.com/images/rendered/default/greeting-card/images-medium-5/spring-or-summer-nature-sunset-background-mythja-design.jpg?&targetx=0&targety=-100&imagewidth=700&imageheight=700&modelwidth=700&modelheight=500&backgroundcolor=FAEDE5&orientation=0);
+      background-size: cover;
+      height: 100vh;
+      padding: 20px;
+    
+}
+.greet{
+    color: #1f2933;
+    font-family: 'Gill Sans MT';
+    font-weight: bold;
+}
+
+.heading {
+       
+    color: rgb(36, 60, 80);
+    font-family:'Arial Narrow Bold';
+    font-size: 50px;
+    font-weight: 500;
+}
+.new-year{
+    font-size: 75px;
+}
+.greet-text-container{
+    text-align: center;
+    height: 80vh;
+}
+.greet-text{
+    color: #323f4b;
+    font-family: 'Times New Roman';
+    font-size: 24px;
+
+}

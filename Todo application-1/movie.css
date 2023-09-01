@@ -1,0 +1,98 @@
+
+.bg-container{
+    background-color:#cbd2d9;
+    height:100vh;
+}
+
+.heading{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.movie-heading{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: size 25px;
+    font: weight 500px;
+    color:#7b8794;
+
+}
+
+.btn{
+    width: 80px;
+    height: 45px;
+    border: radius 40px; 
+    font-weight: bold;
+}
+
+.btn:hover{
+    background-color: brown;
+}
+
+.review-heading{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: size 25px;
+    font: weight 500px;
+    color:#7b8794;
+    margin-top: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

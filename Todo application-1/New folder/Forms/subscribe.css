@@ -1,0 +1,22 @@
+.form-heading{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    background-image: url("https://getwallpapers.com/wallpaper/full/9/1/e/495944.jpg");
+    height: 100px;
+    color: white;
+    background-position: center;
+    padding-top: 20px;
+    
+}
+.error-message{
+    color: red;
+    font-size: 15px;
+}
+.btn{
+    text-align: center;
+    margin-left: 170px;
+}
+.card{
+    margin: 50px;
+}
