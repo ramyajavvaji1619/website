@@ -182,7 +182,6 @@ kids.addEventListener("click",()=>{
 
 })
 kids1.addEventListener("click",()=>{
-     
     document.getElementById("kidsMenu").src="https://assets0.mirraw.com/images/10739405/Baby_Jcd_Wine_Choli_Front_zoom.jpg?1688224726";
     document.getElementById("kidsMenu").style.height="200px"
 

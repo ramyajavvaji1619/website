@@ -4,7 +4,7 @@ let password1El = document.getElementById("password1");
 let password1ErrMsgEl = document.getElementById("password1ErrMsg");
 let loginFormEl = document.getElementById("loginForm");
 let buttonErrMsg1El=document.getElementById("buttonErrMsg1");
-let login123El=document.getElementById("login123");
+// let login123El=document.getElementById("login123");
 
 
 
@@ -33,7 +33,7 @@ email1El.addEventListener("blur", function (event) {
         buttonErrMsg1El.style.fontSize="20px";
             
 
-        document.getElementById("login12").click();
+        document.getElementById("login123").click();
 
       }
     });
